@@ -68,7 +68,7 @@ We combine modern design systems, strong visual identity, and UX analytics to cr
 | **FOTUR Site** | Studio website with custom animations and portfolio | [fotur.tech](https://fotur.tech) |
 | **FOTUR Bot** | Telegram bot with AI-powered chat and project assistant | [@foturbot](https://t.me/foturbot) |
 | **Schedule Bot** | Smart timetable bot for RTU MIREA students with parity and travel logic | — |
-| **Client Projects** | Dozens of live websites and automation systems for small businesses | — |
+| **Client Projects** | Dozens of live websites and automation systems for small businesses | [fotur.tech/portfolio](https://fotur.tech/portfolio) |
 
 ---
 
