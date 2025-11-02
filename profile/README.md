@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://fotur.tech"><img src="https://img.shields.io/badge/Website-fotur.tech-06D200?logo=safari&logoColor=white"></a>
-  <a href="http://t.me/foturtech"><img src="https://img.shields.io/badge/Telegram-@foturtech-0088cc?logo=telegram&logoColor=white"></a>
+  <a href="http://t.me/foturweb"><img src="https://img.shields.io/badge/Telegram-@foturtech-0088cc?logo=telegram&logoColor=white"></a>
   <a href="mailto:hello@fotur.tech"><img src="https://img.shields.io/badge/Email-hello@fotur.tech-orange?logo=gmail&logoColor=white"></a>
 </p>
 
