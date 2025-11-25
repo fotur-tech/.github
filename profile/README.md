@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🚀 FOTUR — Web Studio & AI Lab</h1>
+<h1 align="center">🚀 FOTUR — Web Studio</h1>
 <h3 align="center">We design, develop, and automate the digital world</h3>
 
 <p align="center">
@@ -94,4 +94,4 @@ Have an idea? Let’s make it real.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=06D200&center=true&vCenter=true&width=480&lines=Code.+Design.+Automate.+Repeat." />
 </p>
 
-<p align="center">© 2025 FOTUR — Crafted with 💚 by humans, powered by AI</p>
+<p align="center">© 2025 FOTUR — Crafted with 💚 by humans</p>
